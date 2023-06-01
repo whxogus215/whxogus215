@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=whxogus215)](https://solved.ac/whxogus215)
+![Taehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=whxogus215&show_icons=true&theme=nightowl)
 
