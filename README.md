@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-<!--
-**whxogus215/whxogus215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> 🛠️ My Tech </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=jordan&logoColor=F9A03C" />
+  <img src="https://img.shields.io/badge/Spring Boot-20232a.svg?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp
+  <img src="https://img.shields.io/badge/Aws-F7DF1E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=232F3E" />&nbsp
+</div>
 
-Here are some ideas to get you started:
+<h3 align="center"> 📖 I'm Stuyding </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring Data Jpa-20232a.svg?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Taehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=whxogus215&show_icons=true&theme=nightowl)
 
