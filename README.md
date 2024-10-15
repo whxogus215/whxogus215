@@ -16,4 +16,4 @@
 
 
 ![Taehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=whxogus215&show_icons=true&theme=nightowl)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whxogus215)](https://solved.ac/whxogus215)
+[![코드트리|실력진단-whxogus215](https://banner.codetree.ai/v1/banner/whxogus215)](https://www.codetree.ai/profiles/whxogus215)
