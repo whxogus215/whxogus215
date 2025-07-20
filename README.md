@@ -1,19 +1,12 @@
-### Hi there 👋
-
-<h3 align="center"> 🛠️ My Tech </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=jordan&logoColor=F9A03C" />
-  <img src="https://img.shields.io/badge/Spring Boot-20232a.svg?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/Docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp
-  <img src="https://img.shields.io/badge/Aws-F7DF1E.svg?style=for-the-badge&logo=amazon-web-services&logoColor=232F3E" />&nbsp
+### Backend Developer
+<div align="left">
+  <a href="https://github.com/whxogus215"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white&link=https://github.com/whxogus215"/></a>&nbsp
+  <a href="https://whxogus215.tistory.com"><img src="https://img.shields.io/badge/tistory-FA7000?style=flat&logo=tistory&logoColor=white&link=https://whxogus215.tistory.com"/></a>&nbsp
 </div>
 
-<h3 align="center"> 📖 I'm Stuyding </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring Data Jpa-20232a.svg?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp
-</div>
-
-
-![Taehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=whxogus215&show_icons=true&theme=nightowl)
-[![코드트리|실력진단-whxogus215](https://banner.codetree.ai/v1/banner/whxogus215)](https://www.codetree.ai/profiles/whxogus215)
+<h3 align="left"> 📖 I'm Stuyding </h3>
+<ul>
+  <li>Writing Test Code</li>
+  <li>OOP</li>
+  <li>Design Pattern</li>
+</ul>
