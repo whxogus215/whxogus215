@@ -4,9 +4,17 @@
   <a href="https://whxogus215.tistory.com"><img src="https://img.shields.io/badge/tistory-FA7000?style=flat&logo=tistory&logoColor=white&link=https://whxogus215.tistory.com"/></a>&nbsp
 </div>
 
-<h3 align="left"> 📖 I'm Stuyding </h3>
-<ul>
-  <li>Writing Test Code</li>
-  <li>OOP</li>
-  <li>Design Pattern</li>
-</ul>
+## 🙋 About Me
+- 비즈니스 가치를 이해하고 프로그래밍으로 문제를 해결하는 것에 큰 흥미를 느끼는 개발자입니다.
+- 교내 재학생을 위한 서비스를 직접 기획, 개발, 배포하며 고객 중심의 문제 해결 능력을 길렀습니다.
+- 체계적인 문서화와 명확한 커뮤니케이션을 통해 동료와 함께 성장하는 협업 방식을 지향하며, 그 과정에서 소통 노하우를 터득할 수 있었습니다.
+- `테스트 코드`, `OOP`, `디자인 패턴`을 학습하고 있습니다.
+
+## 📂 Projects
+**gonghak98** – 세종대 공학인증 원클릭 서비스
+| 항목 | 내용 |
+| --- | --- |
+| **기간** | 2024.01 ~ 2025.02 (1년 1개월) |
+| **팀** | BE 3명 |
+| **역할** | 팀 리드, 인프라 및 백엔드 리팩토링 담당 |
+| **주요 성과** | ∙ 180명 이상의 이용자 확보<br>∙ Batch Insert를 적용한 리팩토링으로 CPU 100% 사용률 문제 해결<br>∙ 트랜잭션 범위 재설계 및 Fetch Join, IN절 적용으로 TPS 향상<br>|
