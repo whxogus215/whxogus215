@@ -14,7 +14,7 @@
 **[gonghak98](https://www.gonghak98.com/)** – 세종대 공학인증 원클릭 서비스
 | 항목 | 내용 |
 | --- | --- |
-| **기간** | [V1](https://github.com/whxogus215/gonghak98) : 2024.01 ~ 2025.02 (1년 1개월) <br> [V2](https://github.com/whxogus215/gonghak98-V2) : 2026.02 ~ ing|
+| **기간** | [V1](https://github.com/whxogus215/gonghak98) : 2024.01 ~ 2025.02 (1년 1개월) <br> [V2](https://github.com/whxogus215/gonghak98-V2) : 2025.07 ~ ing|
 | **팀** | BE 3명 |
 | **역할** | 팀 리드, 인프라 및 백엔드 리팩토링 담당 |
 | **주요 성과** | ∙ 180명 이상의 이용자 확보<br>∙ Batch Insert를 적용한 리팩토링으로 CPU 100% 사용률 문제 해결<br>∙ 트랜잭션 범위 재설계 및 Fetch Join, IN절 적용으로 TPS 향상<br>|
